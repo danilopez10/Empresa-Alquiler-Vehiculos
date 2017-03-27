@@ -13,7 +13,7 @@ package javaapplication54;
  */
 public class Furgoneta extends VehiculoCarga{
     /**
-     * Metodo por parametros de la clase
+     * Metodo por parametros de la clase 
      * @param carga_maxima carga de la furgoneta
      * @param vehiculo matricula del vehiculo
      * @param alquiler dias a alquilar
