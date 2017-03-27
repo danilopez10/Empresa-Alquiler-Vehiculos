@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
-* Clase que representa al alquiler de vehiculos
+* Clase que representa al alquiler de vehiculos 
 * Esta clase implementa la clase Datos
 * @author Daniel López Avilés
 * @see Datos
